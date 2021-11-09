@@ -1,0 +1,24 @@
+.menu_holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.menu_icon{
+    width: 20px;
+    height: 20px;
+    /* background-color: purple; */
+    border-radius: 50%;
+    margin: 10px 20px;
+}
+
+.noti_holder{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: orange;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 20px;
+}
