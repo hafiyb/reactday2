@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactday2/static/css/main.f64efd5b.chunk.css",
+    "main.js": "/reactday2/static/js/main.d55360d2.chunk.js",
+    "main.js.map": "/reactday2/static/js/main.d55360d2.chunk.js.map",
+    "runtime-main.js": "/reactday2/static/js/runtime-main.22a8a4a8.js",
+    "runtime-main.js.map": "/reactday2/static/js/runtime-main.22a8a4a8.js.map",
+    "static/js/2.35392483.chunk.js": "/reactday2/static/js/2.35392483.chunk.js",
+    "static/js/2.35392483.chunk.js.map": "/reactday2/static/js/2.35392483.chunk.js.map",
+    "static/js/3.17f25fe2.chunk.js": "/reactday2/static/js/3.17f25fe2.chunk.js",
+    "static/js/3.17f25fe2.chunk.js.map": "/reactday2/static/js/3.17f25fe2.chunk.js.map",
+    "index.html": "/reactday2/index.html",
+    "static/css/main.f64efd5b.chunk.css.map": "/reactday2/static/css/main.f64efd5b.chunk.css.map",
+    "static/js/2.35392483.chunk.js.LICENSE.txt": "/reactday2/static/js/2.35392483.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactday2/static/media/logo.6ce24c58.svg",
+    "static/media/shrek.50279067.jpg": "/reactday2/static/media/shrek.50279067.jpg",
+    "static/media/shrek2.4e01f079.jpg": "/reactday2/static/media/shrek2.4e01f079.jpg",
+    "static/media/shrek3.de70ecc8.jpg": "/reactday2/static/media/shrek3.de70ecc8.jpg",
+    "static/media/shrek4.f35d0d77.jpg": "/reactday2/static/media/shrek4.f35d0d77.jpg",
+    "static/media/shreklogo.3276457f.png": "/reactday2/static/media/shreklogo.3276457f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a8a4a8.js",
+    "static/js/2.35392483.chunk.js",
+    "static/css/main.f64efd5b.chunk.css",
+    "static/js/main.d55360d2.chunk.js"
+  ]
+}
